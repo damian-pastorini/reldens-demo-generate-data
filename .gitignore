@@ -1,0 +1,7 @@
+/generated/
+/tileset-sessions/output/*/ai-buffer/
+/tileset-sessions/output/*/cropped-elements/
+/tileset-sessions/output/*/cropped-clusters-from-analysis/
+/tileset-sessions/output/*/elements/
+/tileset-sessions/output/*/generated/
+*.log

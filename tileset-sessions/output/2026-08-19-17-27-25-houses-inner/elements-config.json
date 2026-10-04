@@ -1,0 +1,743 @@
+[
+    {
+        "imageId": "resized-1787160445387-inside.png",
+        "imageUrl": "tileset-image/2026-08-19-17-27-25-houses-inner/resized-1787160445387-inside.png",
+        "filename": "inside.png",
+        "filePath": "D:\\dap\\work\\reldens\\reldens-claude-branches\\new-demo-assets\\app\\generate-data\\tileset-sessions\\input\\2026-08-19-17-27-25-houses-inner\\resized-1787160445387-inside.png",
+        "imageWidth": 1536,
+        "imageHeight": 1120,
+        "tileWidth": 32,
+        "tileHeight": 32,
+        "spacing": 0,
+        "margin": 0,
+        "tilesetColumns": 48,
+        "tileRows": 35,
+        "tileCount": 1680,
+        "filteredTiles": [],
+        "originalTileWidth": 16,
+        "originalTileHeight": 16,
+        "resizeOption": 32,
+        "mapName": "inside",
+        "mapTitle": "inside",
+        "generatorType": "multiple-by-loader",
+        "associationsProperties": null,
+        "tileOptions": {
+            "groundTiles": [
+                49,
+                51,
+                53,
+                55,
+                59,
+                61,
+                63,
+                145
+            ],
+            "pathTile": null,
+            "borderTile": null,
+            "randomGroundTiles": [],
+            "surroundingTiles": {},
+            "corners": {},
+            "bordersTiles": {
+                "top": 1165,
+                "right": 1158,
+                "bottom": 1156,
+                "left": 1163
+            },
+            "borderCornersTiles": {
+                "top-left": 1161,
+                "top-right": 1157,
+                "bottom-left": 1155,
+                "bottom-right": 1154
+            },
+            "mapBorderWallsTiles": {
+                "-1,-1": 66,
+                "-1,0": 67,
+                "-1,1": 68,
+                "0,-1": 114,
+                "0,0": 115,
+                "0,1": 116,
+                "1,-1": 162,
+                "1,0": 163,
+                "1,1": 164
+            },
+            "borderInnerCornersTiles": {
+                "bottom-left": 1166,
+                "bottom-right": 1167,
+                "top-left": 1160,
+                "top-right": 1164
+            }
+        },
+        "tileAnimations": [],
+        "animationsDefaultDuration": 200,
+        "skipTileAnimations": false,
+        "spots": [],
+        "collapsed": true,
+        "legendSort": {
+            "by": "selected",
+            "ascending": true
+        },
+        "legendVisibility": {
+            "showElements": true,
+            "showClusters": true,
+            "showSpots": true
+        },
+        "elements": [
+            {
+                "name": "wall-left-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 28,
+                "quantity": 1,
+                "freeSpaceAround": 0,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[1,18],[2,18],[3,18]]
+                    }
+                ]
+            },
+            {
+                "name": "chair-003",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 39,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[31,24]]
+                    }
+                ]
+            },
+            {
+                "name": "chair-005",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 40,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[28,24],[29,24]]
+                    }
+                ]
+            },
+            {
+                "name": "vessel-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 41,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[21,25]]
+                    }
+                ]
+            },
+            {
+                "name": "chair-006",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 43,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[28,25],[29,25]]
+                    }
+                ]
+            },
+            {
+                "name": "vessel-002",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 47,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[21,26]]
+                    }
+                ]
+            },
+            {
+                "name": "chair-007",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 49,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[28,26],[29,26]]
+                    }
+                ]
+            },
+            {
+                "name": "chair-004",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 50,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[31,26]]
+                    }
+                ]
+            },
+            {
+                "name": "chair-008",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 54,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[28,27],[29,27]]
+                    }
+                ]
+            },
+            {
+                "name": "wooden-box-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 55,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[21,28],[22,28]]
+                    }
+                ]
+            },
+            {
+                "name": "painting-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 95,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[23,43]]
+                    }
+                ]
+            },
+            {
+                "name": "painting-002",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 97,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[23,44]]
+                    }
+                ]
+            },
+            {
+                "name": "painting-004",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 100,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[21,45],[21,46]]
+                    }
+                ]
+            },
+            {
+                "name": "chimney-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 111,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[21,18],[21,19],[21,20],[22,18],[22,19],[22,20],[23,18],[23,19],[23,20],[24,18],[24,19],[24,20]]
+                    }
+                ]
+            },
+            {
+                "name": "clock-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 116,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[25,24],[26,24],[27,24]]
+                    }
+                ]
+            },
+            {
+                "name": "table-002",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 124,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[32,27],[32,28],[32,29],[33,27],[33,28],[33,29],[34,27],[34,28],[34,29]]
+                    }
+                ]
+            },
+            {
+                "name": "furniture-003",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 136,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[25,33],[25,34],[26,33],[26,34],[27,33],[27,34]]
+                    }
+                ]
+            },
+            {
+                "name": "window-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 143,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[23,35],[23,36],[24,35],[24,36]]
+                    }
+                ]
+            },
+            {
+                "name": "bed-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 151,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[31,39],[32,39],[33,39]]
+                    }
+                ]
+            },
+            {
+                "name": "painting-003",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 160,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[24,43],[24,44],[25,43],[25,44]]
+                    }
+                ]
+            },
+            {
+                "name": "furniture-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 170,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[25,26],[26,26],[27,26]]
+                    }
+                ]
+            },
+            {
+                "name": "furniture-002",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 171,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "below-player",
+                        "tiles": []
+                    },
+                    {
+                        "type": "collisions",
+                        "tiles": [[25,27],[26,27],[27,27]]
+                    }
+                ]
+            },
+            {
+                "name": "flowers-002",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 172,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[23,34]]
+                    },
+                    {
+                        "type": "base",
+                        "tiles": [[24,34]]
+                    }
+                ]
+            },
+            {
+                "name": "furniture-004",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 173,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "below-player",
+                        "tiles": []
+                    },
+                    {
+                        "type": "collisions",
+                        "tiles": [[25,29],[26,29],[27,29]]
+                    }
+                ]
+            },
+            {
+                "name": "furniture-005",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 174,
+                "quantity": 1,
+                "freeSpaceAround": 1,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "below-player",
+                        "tiles": []
+                    },
+                    {
+                        "type": "collisions",
+                        "tiles": [[23,29],[24,29]]
+                    }
+                ]
+            },
+            {
+                "name": "wall-right-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 175,
+                "quantity": 1,
+                "freeSpaceAround": 0,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[1,20],[2,20],[3,20]]
+                    }
+                ]
+            },
+            {
+                "name": "wall-center-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 176,
+                "quantity": 1,
+                "freeSpaceAround": 0,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions",
+                        "tiles": [[1,19],[2,19],[3,19]]
+                    }
+                ]
+            },
+            {
+                "name": "wall-top-left-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 177,
+                "quantity": 1,
+                "freeSpaceAround": 0,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "below-player",
+                        "tiles": []
+                    },
+                    {
+                        "type": "collisions-over-player",
+                        "tiles": [[25,10]]
+                    }
+                ]
+            },
+            {
+                "name": "wall-top-right-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 178,
+                "quantity": 1,
+                "freeSpaceAround": 0,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions-over-player",
+                        "tiles": [[25,12]]
+                    }
+                ]
+            },
+            {
+                "name": "wall-top-center-001",
+                "type": "element",
+                "approved": true,
+                "colorIndex": 179,
+                "quantity": 1,
+                "freeSpaceAround": 0,
+                "allowPathsInFreeSpace": false,
+                "bulkSelected": false,
+                "generateSelected": true,
+                "mapCentered": 0,
+                "layers": [
+                    {
+                        "type": "collisions-over-player",
+                        "tiles": [[25,11]]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "imageId": "1787160445388-FW-CLT_Houses.png",
+        "imageUrl": "tileset-image/2026-08-19-17-27-25-houses-inner/1787160445388-FW-CLT_Houses.png",
+        "filename": "FW-CLT_Houses.png",
+        "filePath": "D:\\dap\\work\\reldens\\reldens-claude-branches\\new-demo-assets\\app\\generate-data\\tileset-sessions\\input\\2026-08-19-17-27-25-houses-inner\\1787160445388-FW-CLT_Houses.png",
+        "imageWidth": 4544,
+        "imageHeight": 2208,
+        "tileWidth": 32,
+        "tileHeight": 32,
+        "spacing": 0,
+        "margin": 0,
+        "tilesetColumns": 142,
+        "tileRows": 69,
+        "tileCount": 9798,
+        "filteredTiles": [],
+        "originalTileWidth": 32,
+        "originalTileHeight": 32,
+        "resizeOption": 0,
+        "mapName": "fw-clt-houses",
+        "mapTitle": "FW-CLT_Houses",
+        "generatorType": "elements-composite-loader",
+        "associationsProperties": null,
+        "tileOptions": {
+            "groundTile": null,
+            "pathTile": null,
+            "borderTile": null,
+            "randomGroundTiles": [],
+            "surroundingTiles": {},
+            "corners": {},
+            "bordersTiles": {},
+            "borderCornersTiles": {}
+        },
+        "tileAnimations": [],
+        "animationsDefaultDuration": 200,
+        "skipTileAnimations": false,
+        "spots": [],
+        "collapsed": true,
+        "legendSort": {
+            "by": "name",
+            "ascending": true
+        },
+        "legendVisibility": {
+            "showElements": true,
+            "showClusters": true,
+            "showSpots": true
+        },
+        "elements": []
+    },
+    {
+        "imageId": "1787160445395-CL_Buildings.png",
+        "imageUrl": "tileset-image/2026-08-19-17-27-25-houses-inner/1787160445395-CL_Buildings.png",
+        "filename": "CL_Buildings.png",
+        "filePath": "D:\\dap\\work\\reldens\\reldens-claude-branches\\new-demo-assets\\app\\generate-data\\tileset-sessions\\input\\2026-08-19-17-27-25-houses-inner\\1787160445395-CL_Buildings.png",
+        "imageWidth": 1120,
+        "imageHeight": 1312,
+        "tileWidth": 32,
+        "tileHeight": 32,
+        "spacing": 0,
+        "margin": 0,
+        "tilesetColumns": 35,
+        "tileRows": 41,
+        "tileCount": 1435,
+        "filteredTiles": [],
+        "originalTileWidth": 32,
+        "originalTileHeight": 32,
+        "resizeOption": 0,
+        "mapName": "cl-buildings",
+        "mapTitle": "CL_Buildings",
+        "generatorType": "elements-composite-loader",
+        "associationsProperties": null,
+        "tileOptions": {
+            "groundTile": null,
+            "pathTile": null,
+            "borderTile": null,
+            "randomGroundTiles": [],
+            "surroundingTiles": {},
+            "corners": {},
+            "bordersTiles": {},
+            "borderCornersTiles": {}
+        },
+        "tileAnimations": [],
+        "animationsDefaultDuration": 200,
+        "skipTileAnimations": false,
+        "spots": [],
+        "collapsed": true,
+        "legendSort": {
+            "by": "name",
+            "ascending": true
+        },
+        "legendVisibility": {
+            "showElements": true,
+            "showClusters": true,
+            "showSpots": true
+        },
+        "elements": []
+    }
+]
